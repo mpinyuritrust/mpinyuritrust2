@@ -33,7 +33,7 @@ Intellij IDEA 2024.2.3: Install it
 
 Running the Project
 Clone the repository to your local machine:
-git clone https://github.com/DonaldWaeni/Secure_Coding_Mini_project.git
+git clone https://github.com/mpinyuritrust/mpinyuritrust2.git
 Import the project into your preferred Java IDE (such as IntelliJ IDEA ).
 Open the signup.java and run 
 
